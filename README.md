@@ -1,6 +1,8 @@
 # Weather-App-JS-API-
 Developed a small project based on HTML.CSS, JS which deploys and shows the weather of your location
 
+checkout here https://getmyweatherinfo.netlify.app/
+
 Welcome to WeatherApp!
 
 WeatherApp is a simple and user-friendly web application that allows users to check the current weather conditions for any location. The app is built using HTML, CSS, and JavaScript, making it lightweight and responsive across various devices.
